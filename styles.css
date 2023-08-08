@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+body {
+    background-image: linear-gradient(180deg, blueviolet, yellow);
+    margin: 8px;
+    display: block;
+}
+
+p {
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+}
+
+.funParagraph{
+    color: green;
+}
